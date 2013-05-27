@@ -1,0 +1,6 @@
+mkdir [DIR]	-create a new directory
+touch [FILE] 	-create a new file
+cd [DIR] 	-change directories
+rm [DIR/FILE] 	-remove directory/file
+ls [DIR]	-list the contents of a directory
+vi [FILE]	-open a file in vim

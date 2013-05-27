@@ -1,0 +1,5 @@
+git init			-initialize a git repository in the present working directory
+git add [FILE]			-add a file to the local repository for an upcoming commit
+git commit -m "[text]"		-commit the pending changes to the repository with an informative message
+git remote add [URL] 		-identify the github repository to sync the local repository
+git push -u origin master	-identify the origin and master branch for push (and pull) and push commits to the github repository
